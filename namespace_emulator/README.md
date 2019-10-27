@@ -1,6 +1,8 @@
 # Namespace emulator
 
-A small training project in Python
+Маленький учебный проект на понимание пространств имен и областей видимости в языке __Python__
+
+> [Python: основы и применение](https://stepik.org/512)
 
 ## Subject
 
